@@ -1,0 +1,43 @@
+/*
+	inspiration: https://twitter.com/jfsiii/status/261575761163599872
+	meta: https://github.com/h5bp/mobile-boilerplate/blob/master/index.html
+	metadata.json
+*/
+
+{
+  "version": "0.0.1",
+  "charset": "utf-8",
+
+  "meta": [
+  	{ "name": "author", "content": "Adam Campbell" },
+  	{ "name": "description", "content": "This is the description for my website." },
+
+  	{ "name": "HandheldFriendly", "content": "True" },
+  	{ "name": "MobileOptimized", "content": "320" },
+  	{ "name": "viewport", "content": "width=device-width" },
+  	{ "http-equiv": "cleartype", "content": "on" },
+
+  	{ "name": "msapplication-TileImage", "content": "img/touch/apple-touch-icon-144x144-precomposed.png" },
+  	{ "name": "msapplication-TileColor", "content": "#222222" },
+
+  	{ "name": "apple-mobile-web-app-capable", "content": "yes" },
+  	{ "name": "apple-mobile-web-app-status-bar-style", "content": "black" },
+  	{ "name": "apple-mobile-web-app-title", "content": "" }
+  ],
+
+  "link": [
+  	{
+  		"apple-touch-icon-precomposed": [
+  			{
+  				"144x144": "img/touch/apple-touch-icon-144x144-precomposed.png",
+  				"114x114": "img/touch/apple-touch-icon-114x114-precomposed.png",
+  				"72x72": "img/touch/apple-touch-icon-72x72-precomposed.png",
+  			},
+  			"img/touch/apple-touch-icon-57x57-precomposed.png"
+  		],
+
+  		"shortcut icon": "img/touch/apple-touch-icon.png"
+  	}
+  ]
+
+}
