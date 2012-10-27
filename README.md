@@ -7,3 +7,5 @@ Metatags have been around for a long time, and traditionally were the source of 
 However, as more and more browsers on a myriad of devices come online, vendors continue to add specialized "metatags" to define device-specific data. Think icons, tiles, app behaviours, etc.
 
 The time has come to rethink this system and attempt make metatags simpler and more unified. Of course, like all things on the web, this will take a cooperative effort first by developers and then by browser vendors.
+
+## How will this work?
