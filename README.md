@@ -9,3 +9,8 @@ However, as more and more browsers on a myriad of devices come online, vendors c
 The time has come to rethink this system and attempt make metatags simpler and more unified. Of course, like all things on the web, this will take a cooperative effort first by developers and then by browser vendors.
 
 ## How will this work?
+
+## Notes
+
+inspiration: https://twitter.com/jfsiii/status/261575761163599872
+meta: https://github.com/h5bp/mobile-boilerplate/blob/master/index.html
